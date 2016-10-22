@@ -3,7 +3,7 @@
 * yarn install
 * yarn start
 
-If you want start server rendering
+If you want start with server rendering
 
 * yarn install
 * yarn build
